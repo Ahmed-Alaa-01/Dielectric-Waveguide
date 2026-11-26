@@ -1,1 +1,1 @@
-asdasdasd
+This directory contains the CST Studio Suite project files for the dielectric rectangular waveguide simulation. To reproduce the results presented in this repository, open the provided CST project file in CST Studio Suite and rerun the simulation.
